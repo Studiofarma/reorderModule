@@ -1,0 +1,13 @@
+rec-orstd.orstd-key.orstd-ordine;rec-orstd.orstd-key.orstd-tempo.orstd-data;rec-orstd.orstd-key.orstd-tempo.orstd-ora;rec-orstd.orstd-key.orstd-fornitore;rec-orstd.orstd-key.orstd-tipo-ordine;rec-orstd.orstd-key.orstd-tipo-riga;rec-orstd.orstd-key.orstd-codice-minsan;rec-orstd.orstd-dati.orstd-descrizione;rec-orstd.orstd-dati.orstd-qta;rec-orstd.orstd-dati.orstd-qta-cons;rec-orstd.orstd-dati.orstd-costo
+ ;20201029;160829;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00010;00010;0000162500
+ ;20201102;105900;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00020;00020;0000162500
+ ;20201109;103319;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00020;00020;0000162500
+ ;20201116;102833;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00040;00040;0000162500
+ ;20201119;115849;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00400;00400;0000162500
+ ;20201128;103123;K            ;  ;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00001;00001;0000162500
+ ;20210120;175659;K            ;  ;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00010;00010;0000158190
+ ;20210216;085548;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00024;00024;0000127000
+ ;20210312;101553;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00048;00048;0000127000
+ ;20210323;115441;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00048;00048;0000127000
+ ;20210525;150551;U            ;01;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00018;00018;0000100000
+D;20201231;124454;0000000009388;  ;O;907926152    ;ROCHE COVID-19 AG RAPID 25PZ                                ;00013;00013;0000158190
